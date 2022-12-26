@@ -1,0 +1,39 @@
+Started sending requests at Fri Dec 23 19:59:12 2022
+Finished sending requests at Fri Dec 23 19:59:38 2022
+Total time: 26.087740898132324
+
+Started sending requests at Fri Dec 23 19:59:53 2022
+Finished sending requests at Fri Dec 23 20:00:54 2022
+Total time: 60.502968072891235
+
+Started sending requests at Fri Dec 23 20:01:09 2022
+Finished sending requests at Fri Dec 23 20:01:25 2022
+Total time: 16.01768183708191
+
+Started sending requests at Fri Dec 23 20:01:40 2022
+Finished sending requests at Fri Dec 23 20:01:56 2022
+Total time: 15.641102075576782
+
+Started sending requests at Fri Dec 23 20:02:11 2022
+Finished sending requests at Fri Dec 23 20:02:27 2022
+Total time: 16.76445198059082
+
+Started sending requests at Fri Dec 23 20:02:42 2022
+Finished sending requests at Fri Dec 23 20:02:58 2022
+Total time: 16.127695083618164
+
+Started sending requests at Fri Dec 23 20:03:13 2022
+Finished sending requests at Fri Dec 23 20:03:29 2022
+Total time: 15.824057817459106
+
+Started sending requests at Fri Dec 23 20:03:44 2022
+Finished sending requests at Fri Dec 23 20:04:01 2022
+Total time: 17.008074283599854
+
+Started sending requests at Fri Dec 23 20:04:16 2022
+Finished sending requests at Fri Dec 23 20:04:32 2022
+Total time: 16.078509092330933
+
+Started sending requests at Fri Dec 23 20:04:47 2022
+Finished sending requests at Fri Dec 23 20:05:03 2022
+Total time: 16.054347038269043
